@@ -27,7 +27,6 @@ def signal_handler(sig, frame):
     exit(0)
 
 
-
 @logger.catch
 def main(input: str, gray: bool = False, resize: float = 1.0) -> None:
     assert input.isdigit(), "Debug with webcam plz"
