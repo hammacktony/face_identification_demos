@@ -2,3 +2,8 @@ numpy
 opencv-python
 cvlib
 face_recognition
+loguru
+tensorflow
+torch
+mtcnn
+facenet_pytorch
