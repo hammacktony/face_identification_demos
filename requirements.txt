@@ -7,3 +7,5 @@ tensorflow
 torch
 mtcnn
 facenet_pytorch
+mxnet-mkl
+insightface
