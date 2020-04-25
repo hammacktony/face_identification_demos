@@ -5,6 +5,7 @@ face_recognition
 loguru
 tensorflow
 torch
+torchvision
 mtcnn
 facenet_pytorch
 mxnet-mkl
